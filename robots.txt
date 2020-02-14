@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shiichain.john-qh.com/sitemap.xml
